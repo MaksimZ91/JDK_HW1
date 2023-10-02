@@ -1,0 +1,9 @@
+System: Server start!
+Ivan Ivanovich connect to server!
+Ivan Ivanovich: fgfgfg
+Ivan Ivanovich: fgfgfgkjkhk
+Ivan Ivanovich: fgfgfgkjkhk
+Ivan Ivanovich: fgfgfgkjkhk
+System: Server stop!
+System: Server start!
+Ivan Ivanovich connect to server!
